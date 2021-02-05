@@ -1,2 +1,0 @@
-# CodeTechLog
-CodeTechLog Website
